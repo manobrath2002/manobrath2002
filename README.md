@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manobrath2002
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning mL
+- 🌱 I’m currently pandas and power BI
 - 💞️ I’m looking to collaborate on ai ml
 - 📫 How to reach me manobrathdutta@gmail.com
 
