@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ####
 #### Aspiring Data Analyst 
-- Worked on diffirent Tech Stacks like Python , Pandas Library , Power Bi 
+- Worked on diffirent Tech Stacks like Python , Pandas Library , Power Bi
+  
