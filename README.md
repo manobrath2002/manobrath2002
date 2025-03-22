@@ -47,6 +47,7 @@ I'm an engineering graduate in **Electronics and Communication Engineering**, cu
 - 💼 LinkedIn: https://www.linkedin.com/in/manobrath-dutta-4b2266299
 
 
-
-
+## Learning Journey
+- 🚀 Exploring SQL for better data querying skills.
+- 📊 Improving my skills in data storytelling using visualization tools like Power BI and Excel.
 
