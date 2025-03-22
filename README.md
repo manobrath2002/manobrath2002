@@ -35,7 +35,7 @@ I'm an engineering graduate in **Electronics and Communication Engineering**, cu
 | Project Title | Description | Tech Used | Link |
 |---------------|-------------|-----------|------|
 | E-commerce Dashboard | Sales insights dashboard using Power BI | Power BI, SQL, Python | https://github.com/manobrath2002/Sales_analytics_project |
-| Spotify Data Analysis | Analyzed audio features and clustering | Python, SQL, Streamlit | [GitHub Repo](#) |
-| Social Media Analytics | Streamlit app to track engagement | Python, Pandas, Streamlit | [GitHub Repo](#) |
-| AdventureWorks BI | End-to-end BI project with real-time refresh | Python, Power BI, SQL | [GitHub Repo](#) |
+| Spotify Data Analysis | Analyzed audio features and clustering | Python, SQL, Streamlit | https://github.com/manobrath2002/Spotify_data_analytics_Project |
+| Social Media Analytics | Streamlit app to track engagement | Python, Pandas, Streamlit | https://github.com/Diyakataria09/Time-Wasters_on_Social_media |
+| Music Listening Habits and Their Psychological Effects | End-to-end BI project with real-time refresh | Python, Power BI, SQL | https://github.com/Anand99Nair/MxM.H.-Survey-Results-Analysis |
 
