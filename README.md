@@ -39,3 +39,14 @@ I'm an engineering graduate in **Electronics and Communication Engineering**, cu
 | Social Media Analytics | Streamlit app to track engagement | Python, Pandas, Streamlit | https://github.com/Diyakataria09/Time-Wasters_on_Social_media |
 | Music Listening Habits and Their Psychological Effects | End-to-end BI project with real-time refresh | Python, Power BI, SQL | https://github.com/Anand99Nair/MxM.H.-Survey-Results-Analysis |
 
+
+
+## 📫 Connect With Me
+
+- 📧 Email: manobrathdutta@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/manobrath-dutta-4b2266299/]
+
+
+
+
+
