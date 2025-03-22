@@ -30,4 +30,12 @@ I'm an engineering graduate in **Electronics and Communication Engineering**, cu
 - Real-world Data Projects
 
 ---
+## 🚀 Projects
+
+| Project Title | Description | Tech Used | Link |
+|---------------|-------------|-----------|------|
+| E-commerce Dashboard | Sales insights dashboard using Power BI | Power BI, SQL, Python | https://github.com/manobrath2002/Sales_analytics_project |
+| Spotify Data Analysis | Analyzed audio features and clustering | Python, SQL, Streamlit | [GitHub Repo](#) |
+| Social Media Analytics | Streamlit app to track engagement | Python, Pandas, Streamlit | [GitHub Repo](#) |
+| AdventureWorks BI | End-to-end BI project with real-time refresh | Python, Power BI, SQL | [GitHub Repo](#) |
 
