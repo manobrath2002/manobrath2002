@@ -44,7 +44,7 @@ I'm an engineering graduate in **Electronics and Communication Engineering**, cu
 ## 📫 Connect With Me
 
 - 📧 Email: manobrathdutta@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/manobrath-dutta-4b2266299/]
+- 💼 LinkedIn: https://www.linkedin.com/in/manobrath-dutta-4b2266299
 
 
 
